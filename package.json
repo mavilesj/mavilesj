@@ -1,6 +1,6 @@
 {
-  "name": "me",
-  "homepage": "http://mavilesj.github.io/mavilesj/me",
+  "name": "mavilesj",
+  "homepage": "http://mavilesj.github.io/mavilesj/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
