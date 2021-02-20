@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 
+
 export default class About extends Component {
   render() {
     return (
@@ -8,17 +9,12 @@ export default class About extends Component {
       <div>
         
         <div className="text-center">
-        
         <h1 id="colorlib-logo"><a href="index.html">Miguel Aviles Jenkins</a></h1>
-        <span className="email"><i className="icon-mail"></i> mavilesj@gmail.com</span>
-        <nav id="colorlib-main-menu">
-       
-              <ul>
-              <div style={{backgroundImage: 'url(images/img_bg.jpg)'}} />
-                <li><a href="https://www.instagram.com/mavilesj/" target="_blank" rel="noopener noreferrer"><i className="icon-instagram" /></a></li>
-                <li><a href="https://www.linkedin.com/in/miguel-aviles-jenkins-96206bbb/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
-              </ul>
-            </nav>
+        <span className="email"><i className="icon-mail"></i> mavilesj@gmail.com</span><br/>
+        <span><a href="https://www.linkedin.com/in/miguel-aviles-jenkins-96206bbb/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></span>&nbsp;&nbsp; 
+        <a href="https://www.instagram.com/mavilesj/" target="_blank" rel="noopener noreferrer"><i className="icon-instagram" /></a>
+        <div className="author-img"  style ={ { backgroundImage: 'url("https://mavilesj.github.io/mavilesj/images/about.jpg")' , borderRadius: "70%", width: 150, height: 150} }>
+        </div>
        </div>
        
         <section className="colorlib-about" data-section="about">
@@ -31,6 +27,7 @@ export default class About extends Component {
                     <span className="heading-meta">About Us</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
                     <p>Systems Information Engineer from Costa Rica</p>
+                    <a className="author-img" style={{backgroundImage: 'url(images/about.jpg)'}} />
                     <p></p>
                     </div>
                 </div>
@@ -44,6 +41,7 @@ export default class About extends Component {
             <div className="row">
             <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
                 <span className="heading-meta">What I do?</span>
+                <div className="author-img" style={{backgroundImage: 'url(images/about.jpg)'}} />
                 <h2 className="colorlib-heading">Here are some of my expertise</h2>
             </div>
             </div>
@@ -65,6 +63,7 @@ export default class About extends Component {
                     <i className="icon-phone3" />
                 </span>
                 <div className="desc">
+                <div className="author-img" style={{backgroundImage: 'url(images/about.jpg)'}} />
                     <h3>Mobile Dev</h3>
                     <p>Kotlin and Swift UI</p>
                 </div>
