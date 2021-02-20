@@ -13,7 +13,7 @@ export default class About extends Component {
         <span className="email"><i className="icon-mail"></i> mavilesj@gmail.com</span><br/>
         <span><a href="https://www.linkedin.com/in/miguel-aviles-jenkins-96206bbb/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></span>&nbsp;&nbsp; 
         <a href="https://www.instagram.com/mavilesj/" target="_blank" rel="noopener noreferrer"><i className="icon-instagram" /></a>
-        <div className="author-img"  style ={ { backgroundImage: 'url("https://mavilesj.github.io/mavilesj/images/about.jpg")' , borderRadius: "70%", width: 150, height: 150} }>
+        <div className="author-img"  style ={ { backgroundImage: 'url("https://mavilesj.github.io/mavilesj/images/aboutme.jpg")' , borderRadius: "70%", width: 150, height: 150} }>
         </div>
        </div>
        
