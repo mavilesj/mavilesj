@@ -9,7 +9,6 @@ import Timeline from './component/timeline'
 class App extends Component {
   render() {
     return (
-     
 				<div id="colorlib-main">
 					<About></About>
           <Timeline></Timeline>
