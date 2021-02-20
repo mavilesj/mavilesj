@@ -3,7 +3,24 @@ import React, { Component } from 'react'
 export default class About extends Component {
   render() {
     return (
+
+       
       <div>
+        
+        <div className="text-center">
+        
+        <h1 id="colorlib-logo"><a href="index.html">Miguel Aviles Jenkins</a></h1>
+        <span className="email"><i className="icon-mail"></i> mavilesj@gmail.com</span>
+        <nav id="colorlib-main-menu">
+       
+              <ul>
+              <div style={{backgroundImage: 'url(images/img_bg.jpg)'}} />
+                <li><a href="https://www.instagram.com/mavilesj/" target="_blank" rel="noopener noreferrer"><i className="icon-instagram" /></a></li>
+                <li><a href="https://www.linkedin.com/in/miguel-aviles-jenkins-96206bbb/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
+              </ul>
+            </nav>
+       </div>
+       
         <section className="colorlib-about" data-section="about">
         <div className="colorlib-narrow-content">
             <div className="row">

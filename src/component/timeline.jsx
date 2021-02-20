@@ -22,7 +22,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Software Engineer  <span>2014-present</span></h2>
-                        <p>Software Tester at Aruba Networks R&D </p>
+                        <p>Software Tester at Aruba Networks R&D, HPE Costa Rica </p>
                       </div>
                       <div className="timeline-label">
                         <h2>Internship at HP <span>2014</span></h2>
@@ -43,12 +43,7 @@ export default class Timeline extends Component {
                   </article>
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-5">
-                        <i className="icon-pen2" />
-                      </div>
-                      <div className="timeline-label">
-                        <h2>High School <span>2003-2017</span></h2>
-                      </div>
+                      
                     </div>
                   </article>
                   <article className="timeline-entry begin animate-box" data-animate-effect="fadeInBottom">
