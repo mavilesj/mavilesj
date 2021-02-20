@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/mavilesj/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/mavilesj/static/js/main.183f2dc1.chunk.js",
-    "main.js.map": "/mavilesj/static/js/main.183f2dc1.chunk.js.map",
+    "main.js": "/mavilesj/static/js/main.11469edd.chunk.js",
+    "main.js.map": "/mavilesj/static/js/main.11469edd.chunk.js.map",
     "runtime-main.js": "/mavilesj/static/js/runtime-main.5adfcfce.js",
     "runtime-main.js.map": "/mavilesj/static/js/runtime-main.5adfcfce.js.map",
     "static/js/2.7611af5d.chunk.js": "/mavilesj/static/js/2.7611af5d.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.5adfcfce.js",
     "static/js/2.7611af5d.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.183f2dc1.chunk.js"
+    "static/js/main.11469edd.chunk.js"
   ]
 }
