@@ -4,7 +4,7 @@ export const profile = {
   email: "mavilesj@gmail.com",
   github: "https://github.com/miguelavilesjenkins",
   linkedin: "https://linkedin.com/in/miguelavilesjenkins",
-  location: "San José, Costa Rica",
+  location: "Atenas, Alajuela",
   summary:
     "10+ years at HPE — Aruba Networks, leading QA teams and building Python automation for enterprise networking products. I work deep in L2/L3 stacks, design test strategies, and push code through Gerrit and CI. Lately I've been putting that same precision into iOS — SwiftUI apps with CoreML, HealthKit, and Firebase.",
 };
