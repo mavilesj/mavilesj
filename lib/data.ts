@@ -74,19 +74,12 @@ export const projects: {
   link?: string;
   repo?: string;
 }[] = [
-  
-  {
-    title: "Meditation App",
-    description:
-      "iOS meditation app developed with SwiftUI and a Firebase backend. Implements audio playback and dynamic content loading.",
-    tags: ["Swift", "SwiftUI", "Firebase", "iOS"],
-  },
   {
     title: "Steps Tracking App",
     description:
       "iOS step tracker integrated with HealthKit for accurate metrics. Minimal UI with daily stats and trend visualization.",
     tags: ["Swift", "SwiftUI", "HealthKit", "iOS"],
-  },
+  }
 ];
 
 export const education: {
