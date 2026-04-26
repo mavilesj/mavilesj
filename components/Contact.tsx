@@ -30,7 +30,7 @@ export default function Contact() {
           >
             <div className="flex items-center gap-3">
               <span className="text-xs text-[#6E6E73] w-16">GitHub</span>
-              <span className="text-sm text-[#007AFF]">miguelavilesjenkins</span>
+              <span className="text-sm text-[#007AFF]">{profile.github.replace("https://github.com/", "")}</span>
             </div>
             <span className="text-[#AEAEB2] text-base leading-none">›</span>
           </a>
@@ -42,7 +42,7 @@ export default function Contact() {
           >
             <div className="flex items-center gap-3">
               <span className="text-xs text-[#6E6E73] w-16">LinkedIn</span>
-              <span className="text-sm text-[#007AFF]">miguelavilesjenkins</span>
+              <span className="text-sm text-[#007AFF]">miguel-aviles-jenkins</span>
             </div>
             <span className="text-[#AEAEB2] text-base leading-none">›</span>
           </a>
