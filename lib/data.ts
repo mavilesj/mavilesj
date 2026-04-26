@@ -100,6 +100,11 @@ export const education: {
     year: "2022",
   },
   {
+    degree: "Licenciatura in Computer Science — Web Systems",
+    institution: "Universidad Nacional de Costa Rica",
+    year: "2022",
+  },
+  {
     degree: "Bachelor's Degree in Information Systems Engineering",
     institution: "Universidad Nacional de Costa Rica",
     year: "2014",
